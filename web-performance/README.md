@@ -26,3 +26,17 @@ API -> within 2 seconds
 
 40% -> 3 seconds
 75% -> slow
+
+### 1.2 SEO
+
+help search engines and rank your content
+
+Page Rank -> hight traffic
+
+same content -> faster performance wins
+
+### 1.3 Ads
+
+bounce rate -> performance
+
+100ms improvement -> 1% incremental revenue
