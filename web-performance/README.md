@@ -63,3 +63,24 @@ Fetch/Others -> Brown
 DOMContentLoaded -> HTML downloaded and  scripts executed (Image not included)
 
 Load -> all downloaded and rendered (Lazy-loaded not included)
+
+DCL & L events does not work with CSR SPA
+
+## 2.2 Core Web Vitals
+
+1. How fast site visibly loads
+2. how smooth things load
+3. how quickly users can interact
+
+Largest Contentful Paint (LCP)
+
+- How fast site visibly loads the most important element
+- important === largest element in pixel
+- largest element === img, video, css bg image, text
+- factors === opacity > 0, size < 100%, low entropy images < 0.05
+- entropy -> no of bits / visible pixel
+- lcp measurement stops after first user interaction
+- lcp Good < 2.5 sec, Improvement < 4 sec, Poor > 4 sec
+
+Cumulative Layout Shift (CLS)
+Interaction to Next Paint (INP)
