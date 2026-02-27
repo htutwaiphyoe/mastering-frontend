@@ -40,3 +40,22 @@ same content -> faster performance wins
 bounce rate -> performance
 
 100ms improvement -> 1% incremental revenue
+
+## 2. Measuring
+
+1. Legacy Metrics
+2. Core Web Vitals
+3. More Metrics
+4. Capturing Metrics
+5. Browser Support
+
+## 2.1 Legacy Metrics
+
+Waterfall Charts -> measure time (ms)
+
+HTML Document -> Blue
+Stylesheets -> Purple
+JavaScript -> Yellow
+Images -> Green
+Fonts -> Blue green
+Fetch/Others -> Brown
