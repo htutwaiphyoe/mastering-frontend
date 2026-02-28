@@ -59,3 +59,7 @@ JavaScript -> Yellow
 Images -> Green
 Fonts -> Blue green
 Fetch/Others -> Brown
+
+DOMContentLoaded -> HTML downloaded and  scripts executed (Image not included)
+
+Load -> all downloaded and rendered (Lazy-loaded not included)
