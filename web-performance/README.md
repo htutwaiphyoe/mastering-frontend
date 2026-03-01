@@ -83,4 +83,12 @@ Largest Contentful Paint (LCP)
 - lcp Good < 2.5 sec, Improvement < 4 sec, Poor > 4 sec
 
 Cumulative Layout Shift (CLS)
+
+- how smooth and predictably elements load in page
+- shifty.site
+- layout shift = impact fraction x distance fraction
+- impact fraction = impact / viewport (w, h)
+- distance fraction = distance / viewport (w, h)
+- cumulative = sum of all layout shifts (excluding shifts from user action < 500ms)
+
 Interaction to Next Paint (INP)
