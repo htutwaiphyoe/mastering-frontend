@@ -90,5 +90,10 @@ Cumulative Layout Shift (CLS)
 - impact fraction = impact / viewport (w, h)
 - distance fraction = distance / viewport (w, h)
 - cumulative = sum of all layout shifts (excluding shifts from user action < 500ms)
+- CLS < 0.1 Good, < 0.25 Improvement, > 0.25 Poor
+- CSR make worse CLS
+- Canvas does not make CLS
+- Skeleton does not make CLS
+- Content inside iframe does not make CLS
 
 Interaction to Next Paint (INP)
