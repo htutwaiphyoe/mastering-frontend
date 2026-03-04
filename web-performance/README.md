@@ -96,4 +96,15 @@ Cumulative Layout Shift (CLS)
 - Skeleton does not make CLS
 - Content inside iframe does not make CLS
 
+Flame Charts
+
+flame chart -> performance of js -> measuring execution time (ms)
+
+Browser Task -> Grey
+Parse HTML -> Blue
+Layout & Paint -> Purple
+Evaluate & Compile Scripts -> Yellow
+JavaScript Execution -> Light Yellow
+Extensions -> Green
+
 Interaction to Next Paint (INP)
