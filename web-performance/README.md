@@ -108,3 +108,15 @@ JavaScript Execution -> Light Yellow
 Extensions -> Green
 
 Interaction to Next Paint (INP)
+
+INP -> how quickly user can interact
+
+interaction -> click, drag, touch, keypress (NOT Scroll) -> pick worst one
+
+considerations
+
+- no interaction, no INP
+- don't know the worst one until user leaves
+- heavily influenced by device capability
+
+INP -> Good < 200, Improvement 500ms > Poor
