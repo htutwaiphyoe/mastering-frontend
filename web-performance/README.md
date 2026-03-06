@@ -120,3 +120,12 @@ considerations
 - heavily influenced by device capability
 
 INP -> Good < 200, Improvement 500ms > Poor
+
+First Input Delay (FID) -> deprecated (2020 - 2024)
+
+INP replaces FID
+
+FID -> Measured the first INP
+
+- emphasized blocking time over processing time
+- Users interact many times
