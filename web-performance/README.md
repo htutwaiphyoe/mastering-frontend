@@ -129,3 +129,11 @@ FID -> Measured the first INP
 
 - emphasized blocking time over processing time
 - Users interact many times
+
+Performance Metrics
+
+Time to First Byte -> TTFB -> how quickly host responds -> server performance
+
+Click -> (n) Redirect -> Service Worker Init -> Service Worker Fetch Event -> HTTP Cache -> DNS -> TCP -> Request -> Early Hint (103) -> Response -> Process -> Load
+
+TTFB -> Good < 800ms, Improvement < 1800ms, > POOR
