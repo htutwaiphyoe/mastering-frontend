@@ -145,3 +145,29 @@ TTFB  -> DCL (can be anywhere) -> FCP -> LCP -> L (can be anywhere)
 FCP -> Good < 1.8s, Improvement < 3s, > POOR
 
 LCP > FCP > TTFB
+
+Capturing Metrics
+
+Can get programmatically by Performance & PerformanceObserver
+
+Performance
+
+- .now()
+- .getEntries()
+- .mark()
+- .measure()
+
+.now() -> high-resolution timestamp relative to start of page
+
+.timeOrigin -> high resolution timestamp start of page
+
+.timeOrigin + .now() == Date.now()
+
+The performance.now() method returns a high resolution timestamp in milliseconds. It represents the time elapsed since Performance.timeOrigin
+
+.getEntries() -> timing information for
+
+- page navigation
+- resource requests
+- performance events
+- custom events
