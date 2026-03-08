@@ -137,3 +137,11 @@ Time to First Byte -> TTFB -> how quickly host responds -> server performance
 Click -> (n) Redirect -> Service Worker Init -> Service Worker Fetch Event -> HTTP Cache -> DNS -> TCP -> Request -> Early Hint (103) -> Response -> Process -> Load
 
 TTFB -> Good < 800ms, Improvement < 1800ms, > POOR
+
+First Contentful Paint -> FCP -> how fast site visibly loads ui
+
+TTFB  -> DCL (can be anywhere) -> FCP -> LCP -> L (can be anywhere)
+
+FCP -> Good < 1.8s, Improvement < 3s, > POOR
+
+LCP > FCP > TTFB
