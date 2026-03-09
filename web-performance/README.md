@@ -171,3 +171,17 @@ The performance.now() method returns a high resolution timestamp in milliseconds
 - resource requests
 - performance events
 - custom events
+
+Performance -> Observer effect -> disturbance of observed system by the act of observation -> reduce performance due to observing
+
+Performance Observer
+
+observe performance entries when browser is idle
+
+new PerformanceObserver(callback)
+
+PerformanceObserver.observe({ type, buffered: true })
+
+buffered => informed events happened before observing because PerformanceObserver listener is attached at the end
+
+[web-vitals](https://github.com/GoogleChrome/web-vitals)
