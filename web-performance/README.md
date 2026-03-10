@@ -2,6 +2,8 @@
 
 Performance -> Speed + Efficiency of website loads, renders and responds
 
+[Github](https://github.com/toddhgardner/fundametals-of-web-performance)
+
 Table of content
 
 1. Importance
@@ -185,3 +187,11 @@ PerformanceObserver.observe({ type, buffered: true })
 buffered => informed events happened before observing because PerformanceObserver listener is attached at the end
 
 [web-vitals](https://github.com/GoogleChrome/web-vitals)
+
+Browser Support
+
+Browser Engines
+
+Blink -> Chrome, Edge, Opera, Samsung, Brave, Arc
+Webkit -> Safari, Mobile Safari, Chrome on iOS
+Gecko -> Firefox
