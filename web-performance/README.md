@@ -193,5 +193,7 @@ Browser Support
 Browser Engines
 
 Blink -> Chrome, Edge, Opera, Samsung, Brave, Arc
-Webkit -> Safari, Mobile Safari, Chrome on iOS
-Gecko -> Firefox
+Webkit -> Safari, Mobile Safari, Chrome on iOS -> not support LCP, CLS, INP
+Gecko -> Firefox -> not support CLS, INP
+
+Be aware on Safari
