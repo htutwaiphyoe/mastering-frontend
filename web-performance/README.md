@@ -51,7 +51,7 @@ bounce rate -> performance
 4. Capturing Metrics
 5. Browser Support
 
-## 2.1 Legacy Metrics
+### 2.1 Legacy Metrics
 
 Waterfall Charts -> measure time (ms)
 
@@ -68,7 +68,7 @@ Load -> all downloaded and rendered (Lazy-loaded not included)
 
 DCL & L events does not work with CSR SPA
 
-## 2.2 Core Web Vitals
+### 2.2 Core Web Vitals
 
 1. How fast site visibly loads
 2. how smooth things load
@@ -197,3 +197,17 @@ Webkit -> Safari, Mobile Safari, Chrome on iOS -> not support LCP, CLS, INP
 Gecko -> Firefox -> not support CLS, INP
 
 Be aware on Safari
+
+## 3. Tests & Tools
+
+- Testing Methods
+- Common Tools
+- Real User Monitoring
+
+### 3.1 Testing Methods
+
+depends on where we measure from -> different results
+
+Lab Data with Test Device
+Synthetic Data with Test Device
+Field Data with Reporting Service
