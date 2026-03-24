@@ -211,3 +211,11 @@ depends on where we measure from -> different results
 Lab Data with Test Device
 Synthetic Data with Test Device
 Field Data with Reporting Service
+
+### 3.2 Statistics
+
+average problems -> Average score -> can't determine due to very raw
+
+use Percentiles -> get half way points -> p50, p75, p95, p99
+
+lab data -> easier and diagnostic, field data -> more accurate, experience
