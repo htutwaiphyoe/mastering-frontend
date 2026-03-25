@@ -219,3 +219,10 @@ average problems -> Average score -> can't determine due to very raw
 use Percentiles -> get half way points -> p50, p75, p95, p99
 
 lab data -> easier and diagnostic, field data -> more accurate, experience
+
+### 3.3 Common Tools
+
+- Google Lighthouse
+- Device Toolbar
+- Network Panel
+- Performance Panel
