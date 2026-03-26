@@ -226,3 +226,5 @@ lab data -> easier and diagnostic, field data -> more accurate, experience
 - Device Toolbar
 - Network Panel
 - Performance Panel
+
+Network Throttling, CPU Throttling
