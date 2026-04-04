@@ -228,3 +228,7 @@ lab data -> easier and diagnostic, field data -> more accurate, experience
 - Performance Panel
 
 Network Throttling, CPU Throttling
+
+### 3.4 Web Vitals Extension
+
+[web-vitals extension](https://chromewebstore.google.com/detail/web-vitals/illmkcoedmdanbkoihjpipllkaoakccm?hl=en)
