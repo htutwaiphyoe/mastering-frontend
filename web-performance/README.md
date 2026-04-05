@@ -232,3 +232,16 @@ Network Throttling, CPU Throttling
 ### 3.4 Web Vitals Extension
 
 [web-vitals extension](https://chromewebstore.google.com/detail/web-vitals/illmkcoedmdanbkoihjpipllkaoakccm?hl=en)
+
+### 3.5 Chrome User Experience Report
+
+- Field Data
+- Logged in Chrome Users
+- Top 1M Public Websites
+- Anonymous and Public
+- 28 Day Rolling Average
+- Google BigQuery
+
+[speed check](https://requestmetrics.com/resources/tools/crux/)
+
+[pagespeed](https://pagespeed.web.dev/)
