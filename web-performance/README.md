@@ -274,3 +274,20 @@ Project RUM
 - RUMVision
 - Pingdom
 - Raygun
+
+## 4. Setting Goals
+
+- How fast is enough
+- Who gets to decide
+- Understanding users
+
+The Psychology of Waiting
+
+- People want to start
+- Bored waits feel slower
+- Anxious waits feel slower
+- Unexplained waits feel slower
+- Uncertain waits feel slower
+- People will wait for value
+
+User trusts -> Intentionally Slow
