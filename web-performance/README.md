@@ -281,6 +281,8 @@ Project RUM
 - Who gets to decide
 - Understanding users
 
+### 4.1 How fast is enough
+
 The Psychology of Waiting
 
 - People want to start
@@ -291,3 +293,25 @@ The Psychology of Waiting
 - People will wait for value
 
 User trusts -> Intentionally Slow
+
+### 4.2 Who gets to decide
+
+- User Experience
+- Competitors
+- SEO PageRank
+
+User Experience -> Follow Business Metrics
+
+- Bounce Rate
+- Session Time
+- Add-To-Cart Rate
+- Cart Abandonment Rate
+- Conversion Rate
+
+Correlation !== Causation
+
+Competitors -> 20% Faster
+
+Weber's Law (20% Rule) -> 20% difference minimum for people to notice
+
+SEO PageRank -> LCP, CLS, INP
