@@ -315,3 +315,13 @@ Competitors -> 20% Faster
 Weber's Law (20% Rule) -> 20% difference minimum for people to notice
 
 SEO PageRank -> LCP, CLS, INP
+
+### 4.3 Understanding Users
+
+Device share -> Mobile, Desktop, Tablet
+
+Screen Size -> 1920x1080
+
+OS Share -> Android, iOS, Windows
+
+Network Speed -> Download, Upload
