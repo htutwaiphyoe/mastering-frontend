@@ -325,3 +325,9 @@ Screen Size -> 1920x1080
 OS Share -> Android, iOS, Windows
 
 Network Speed -> Download, Upload
+
+## 5. Improving
+
+Focus easy fixes for worst metric from real user data
+
+Do Fewer Things
