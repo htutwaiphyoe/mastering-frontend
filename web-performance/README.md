@@ -333,3 +333,18 @@ Focus easy fixes for worst metric from real user data
 Do Fewer Things
 
 ### 5.1 Improving TTFB
+
+check RUM or Crux p75 data
+
+- Compress HTTP Response
+- Efficient Protocols
+- Host Capacity
+- Host Proximity
+
+Compress HTTP Response -> Reduce the size of plain text files: html, css, javascript
+
+use GZip and Brotli
+
+[brotli](https://github.com/google/brotli)
+
+Accept-Encoding: gzip, deflate, br
