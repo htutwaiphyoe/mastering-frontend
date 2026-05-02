@@ -348,3 +348,15 @@ use GZip and Brotli
 [brotli](https://github.com/google/brotli)
 
 Accept-Encoding: gzip, deflate, br
+
+Efficient Protocols -> HTTP/1.1, 2, 3
+
+HTTP/1.1 -> Request Response Cycle
+
+HTTP/2 -> One TCP connection between client and server
+
+HTTP/3 -> HTTP/2 with different connection protocols
+
+UDP -> no guarantee -> faster
+
+TCP -> guarantee -> slower
