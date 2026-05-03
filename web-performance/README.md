@@ -360,3 +360,7 @@ HTTP/3 -> HTTP/2 with different connection protocols
 UDP -> no guarantee -> faster
 
 TCP -> guarantee -> slower
+
+HTTP/3 -> need HTTPS, UDP, hard to debug
+
+[caddyserver](https://caddyserver.com/)
