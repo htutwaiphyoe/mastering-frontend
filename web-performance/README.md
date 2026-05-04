@@ -364,3 +364,9 @@ TCP -> guarantee -> slower
 HTTP/3 -> need HTTPS, UDP, hard to debug
 
 [caddyserver](https://caddyserver.com/)
+
+Host Capacity -> right size for workload
+
+Host Proximity -> network hops -> put host close to user -> CDN
+
+[bunny cdn](https://bunny.net/)
