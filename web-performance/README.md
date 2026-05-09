@@ -370,3 +370,11 @@ Host Capacity -> right size for workload
 Host Proximity -> network hops -> put host close to user -> CDN
 
 [bunny cdn](https://bunny.net/)
+
+### 5.2 Improving FCP
+
+check RUM or Crux p75 data
+
+- Remove Sequence Chains
+- Preloading Resources
+- Lazy load resources
