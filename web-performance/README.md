@@ -378,3 +378,11 @@ check RUM or Crux p75 data
 - Remove Sequence Chains
 - Preloading Resources
 - Lazy load resources
+
+Remove Sequence Chains -> collapse dependencies
+
+CSS and Fonts -> Rendering blocking
+
+@import css, @font-face, import js module
+
+use module bundlers -> webpack, rollup, vite
