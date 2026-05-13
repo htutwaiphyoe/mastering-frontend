@@ -386,3 +386,11 @@ CSS and Fonts -> Rendering blocking
 @import css, @font-face, import js module
 
 use module bundlers -> webpack, rollup, vite
+
+Preloading Resources -> start critical path resources as soon as possible
+
+rel="preconnect" -> preconnect google font api
+
+rel="preload" -> preload google font api
+
+preload -> style, script, image, font (CORS), fetch (CORS)
