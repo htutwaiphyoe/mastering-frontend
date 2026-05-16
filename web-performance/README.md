@@ -394,3 +394,16 @@ rel="preconnect" -> preconnect google font api
 rel="preload" -> preload google font api
 
 preload -> style, script, image, font (CORS), fetch (CORS)
+
+lazy loading -> remove critical path resources -> js files -> check flame charts
+
+JS -> parser blocking
+
+async -> download lazy, block by execution -> racing
+defer -> download lazy, execute before DOMContentLoaded -> no race
+
+use defer script -> order matters
+
+script type module -> always deferred
+
+placement in head or body -> not matter due to defer -> just for order of fetching scripts
