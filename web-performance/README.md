@@ -407,3 +407,13 @@ use defer script -> order matters
 script type module -> always deferred
 
 placement in head or body -> not matter due to defer -> just for order of fetching scripts
+
+### 5.3 Improving LCP
+
+LCP -> resource delay + resource duration + render delay
+
+check RUM or Crux p75 data
+
+- lazy loading
+- eager loading
+- optimizing images
