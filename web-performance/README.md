@@ -417,3 +417,5 @@ check RUM or Crux p75 data
 - lazy loading
 - eager loading
 - optimizing images
+
+lazy loading image -> loading="lazy"
