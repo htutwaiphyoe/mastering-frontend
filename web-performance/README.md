@@ -419,3 +419,9 @@ check RUM or Crux p75 data
 - optimizing images
 
 lazy loading image -> loading="lazy"
+
+eager loading -> start critical path resources as soon as possible
+
+img -> fetchPriority="high" -> only img, script and link -> no Gecko Support
+
+loading="eager"
