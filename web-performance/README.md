@@ -425,3 +425,17 @@ eager loading -> start critical path resources as soon as possible
 img -> fetchPriority="high" -> only img, script and link -> no Gecko Support
 
 loading="eager"
+
+optimizing images -> send as few bytes as possible
+
+- image format
+- responsive images
+
+image format
+
+- jpg -> lossy
+- png -> lossless
+- webp -> lossy -> preferred
+- avif -> lossy -> preferred
+
+tinypng -> png compressor
