@@ -431,7 +431,7 @@ optimizing images -> send as few bytes as possible
 - image format
 - responsive images
 
-image format
+image formats
 
 - jpg -> lossy
 - png -> lossless
@@ -439,3 +439,21 @@ image format
 - avif -> lossy -> preferred
 
 tinypng -> png compressor
+
+responsive images
+
+- desktop vs mobile
+
+```html
+<picture>
+  <source 
+    media="(max-width: 720px)" 
+    srcset='/image 360w
+            /image 720w'>
+  <source 
+    media="(min-width: 721px)" 
+    srcset='/image 720w
+            /image 1440w'>
+  <img>
+</picture>
+```
