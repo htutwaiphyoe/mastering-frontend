@@ -457,3 +457,9 @@ responsive images
   <img>
 </picture>
 ```
+
+resizing images
+
+[imagemin](https://github.com/imagemin/imagemin)
+
+[svgomg](https://svgomg.net/)
