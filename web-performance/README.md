@@ -463,3 +463,16 @@ resizing images
 [imagemin](https://github.com/imagemin/imagemin)
 
 [svgomg](https://svgomg.net/)
+
+### 5.4 Improving Return User Experience
+
+server caching -> cdn
+
+browser caching -> caching header -> Etag
+
+If-None-Match: Etag
+If-Modified-Since: Date
+
+Free Request
+Cache-Control: max-age=3600
+Expires: Date
