@@ -476,3 +476,5 @@ If-Modified-Since: Date
 Free Request
 Cache-Control: max-age=3600
 Expires: Date
+
+js file cache -> name change needed -> bundler uses unique hex in the name
