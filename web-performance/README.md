@@ -478,3 +478,17 @@ Cache-Control: max-age=3600
 Expires: Date
 
 js file cache -> name change needed -> bundler uses unique hex in the name
+
+### 5.5 Improving CLS
+
+check RUM or Crux p75 data
+
+layout size hints -> giving space since start
+
+CLS problem -> created by LCP fast
+
+width and height in lazy images -> width="500" -> no px
+
+width and height -> not actual size -> only for aspect ratio
+
+late content size -> late rendered content
