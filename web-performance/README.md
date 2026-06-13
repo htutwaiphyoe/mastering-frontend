@@ -492,3 +492,17 @@ width and height in lazy images -> width="500" -> no px
 width and height -> not actual size -> only for aspect ratio
 
 late content size -> late rendered content
+
+### 5.6 Improving INP
+
+yield the main thread -> check flame chart
+
+setTimeout
+
+- schedule code to run in the future
+- allows other work to run
+
+requestAnimationFrame
+
+- schedule code to run just before next paint
+- useful for animations
