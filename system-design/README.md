@@ -69,3 +69,20 @@ Mathematic of inline elements
 - ignore with and height
 - ignore vertical margins
 - inline padding does not change height of inline element
+
+### 1.2 Browser Formatting Context
+
+- an independent layout environment in a web page
+
+Key ideas
+
+- isolation
+- scalability
+- predictability
+
+Formatting Context Family
+
+- Flex
+- Grid
+- Inline
+- Block
