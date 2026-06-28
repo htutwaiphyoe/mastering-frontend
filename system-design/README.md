@@ -86,3 +86,37 @@ Formatting Context Family
 - Grid
 - Inline
 - Block
+
+### 1.3 Browser Positioning System
+
+- Normal Flow
+
+css position -> alter normal flow -> static, relative, absolute, sticky, fixed
+
+static -> default
+
+relative -> normal flow
+
+- offset applied relative to itself based on top, right, bottom, left
+- offset does not affect the position of other elements
+- the space remain the same
+- create a new stacking context when z-index is not auto
+
+containing block -> reference point
+
+- browser viewport
+- html
+- body
+- div with relative
+
+absolute -> remove from normal flow
+
+- no space is reserved
+- positioned relative to its closed positioned ancestor
+- based on top, right, bottom, and left
+- create a new stacking context when z-index is defined
+
+stacking context -> z-index -> 3D
+
+- layering
+- performance optimization
