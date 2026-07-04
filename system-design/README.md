@@ -130,3 +130,9 @@ Reflow -> JS + Style -> Layout -> Paint -> Composite
 [reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a/565c05680b27c9cfd9f5e971d295cd558c3e1843)
 
 [csstriggers](https://csstriggers.com/)
+
+### 1.5 Composition Layers
+
+old browser -> CPU -> Rendering Engine -> Paint
+
+modern browser -> CPU + GPU -> Rendering Engine -> Paint
