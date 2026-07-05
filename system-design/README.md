@@ -136,3 +136,7 @@ Reflow -> JS + Style -> Layout -> Paint -> Composite
 old browser -> CPU -> Rendering Engine -> Paint
 
 modern browser -> CPU + GPU -> Rendering Engine -> Paint
+
+### 1.6 Browser Rendering
+
+Demo
