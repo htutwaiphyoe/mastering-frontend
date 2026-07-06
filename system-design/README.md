@@ -140,3 +140,13 @@ modern browser -> CPU + GPU -> Rendering Engine -> Paint
 ### 1.6 Browser Rendering
 
 Demo
+
+## 2. DOM APIs
+
+window, document
+
+### 2.1 DOM Querying
+
+HTML template tag -> store te html in memory
+
+[DocumentFragment](https://developer.mozilla.org/en-US/docs/Web/API/DocumentFragment)
