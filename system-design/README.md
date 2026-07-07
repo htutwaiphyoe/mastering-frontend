@@ -150,3 +150,5 @@ window, document
 HTML template tag -> store te html in memory
 
 [DocumentFragment](https://developer.mozilla.org/en-US/docs/Web/API/DocumentFragment)
+
+## 2.2 DOM Performance
