@@ -147,8 +147,10 @@ window, document
 
 ### 2.1 DOM Querying
 
-HTML template tag -> store te html in memory
-
 [DocumentFragment](https://developer.mozilla.org/en-US/docs/Web/API/DocumentFragment)
 
 ## 2.2 DOM Performance
+
+## 2.3 DOM Template
+
+HTML template tag -> store te html in memory
