@@ -149,8 +149,14 @@ window, document
 
 [DocumentFragment](https://developer.mozilla.org/en-US/docs/Web/API/DocumentFragment)
 
-## 2.2 DOM Performance
+### 2.2 DOM Performance
 
-## 2.3 DOM Template
+### 2.3 DOM Template
 
 HTML template tag -> store te html in memory
+
+## 3. Observer API
+
+### 3.1 Intersection Observer
+
+[Intersection_Observer_API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
