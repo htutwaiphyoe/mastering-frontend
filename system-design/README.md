@@ -160,3 +160,9 @@ HTML template tag -> store te html in memory
 ### 3.1 Intersection Observer
 
 [Intersection_Observer_API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
+
+### 3.2 Mutation Observer
+
+contenteditable
+
+[MutationObserver](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver)
