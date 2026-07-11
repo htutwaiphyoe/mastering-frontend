@@ -166,3 +166,9 @@ HTML template tag -> store te html in memory
 contenteditable
 
 [MutationObserver](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver)
+
+### 3.3 Resize Observer
+
+[ResizeObserver](https://developer.mozilla.org/en-US/docs/Web/API/ResizeObserver)
+
+don't use resize event
