@@ -172,3 +172,9 @@ contenteditable
 [ResizeObserver](https://developer.mozilla.org/en-US/docs/Web/API/ResizeObserver)
 
 don't use resize event
+
+### 3.4 Virtualization
+
+- store data in memory
+- swap items
+- replace empty
