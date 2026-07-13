@@ -178,3 +178,17 @@ don't use resize event
 - store data in memory
 - swap items
 - replace empty
+
+## 4 Application State Design
+
+Db concepts in browser
+
+minimal data access cost -> normalization
+
+1 nf -> atomic field + primary key
+2 nf -> 1 nf + non-primary keys depend on entity primary key
+3 nf -> 2nf + non-primary keys only depend on entity primary key
+
+minimal data search cost -> indexing
+
+minimal ram usage -> offload to hard drive + extra storage (IndexedDB)
