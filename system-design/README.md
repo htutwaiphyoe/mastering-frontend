@@ -179,7 +179,7 @@ don't use resize event
 - swap items
 - replace empty
 
-## 4 Application State Design
+## 4. Application State Design
 
 Db concepts in browser
 
@@ -192,3 +192,10 @@ minimal data access cost -> normalization
 minimal data search cost -> indexing
 
 minimal ram usage -> offload to hard drive + extra storage (IndexedDB)
+
+## 5. Network
+
+UDP -> streaming -> faster
+TCP -> data integrity
+
+Long Polling
