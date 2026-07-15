@@ -195,6 +195,8 @@ minimal ram usage -> offload to hard drive + extra storage (IndexedDB)
 
 ## 5. Network
 
+### 5.1 Protocols
+
 UDP -> streaming -> faster
 TCP -> data integrity
 
