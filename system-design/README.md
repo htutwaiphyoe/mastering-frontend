@@ -200,4 +200,6 @@ minimal ram usage -> offload to hard drive + extra storage (IndexedDB)
 UDP -> streaming -> faster
 TCP -> data integrity
 
-Long Polling
+### 5.2 Long Polling
+
+Long Polling -> calling request in a time interval -> energy consumption + latency
