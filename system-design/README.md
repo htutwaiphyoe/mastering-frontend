@@ -203,3 +203,7 @@ TCP -> data integrity
 ### 5.2 Long Polling
 
 Long Polling -> calling request in a time interval -> energy consumption + latency
+
+### 5.3 Server-sent Events
+
+server pushed technology -> based on http 2 -> receive only mode
