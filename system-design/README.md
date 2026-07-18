@@ -206,4 +206,10 @@ Long Polling -> calling request in a time interval -> energy consumption + laten
 
 ### 5.3 Server-sent Events
 
-server pushed technology -> based on http 2 -> receive only mode
+server pushed technology -> based on http 2 -> receive only mode -> protocol level
+
+### 5.4 Web Sockets
+
+duplex push technology -> based on http 2 -> TCP connection -> real time
+
+chat -> server-sent events + post requests
