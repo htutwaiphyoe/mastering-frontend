@@ -213,3 +213,9 @@ server pushed technology -> based on http 2 -> receive only mode -> protocol lev
 duplex push technology -> based on http 2 -> TCP connection -> real time
 
 chat -> server-sent events + post requests
+
+### 5.5 Rest & GraphQL
+
+GraphQL adds complexity
+
+Isomorphic -> client and server shared data type
