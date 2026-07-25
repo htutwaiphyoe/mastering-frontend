@@ -219,3 +219,15 @@ chat -> server-sent events + post requests
 GraphQL adds complexity
 
 Isomorphic -> client and server shared data type
+
+## 6. Web Application Performance
+
+### 6.1 Web Vitals
+
+LCP, INP, CLS
+
+### 6.2 Network
+
+http 1.1 -> 20%
+http 2 -> 50%
+http 3 -> 30%
