@@ -228,6 +228,6 @@ LCP, INP, CLS
 
 ### 6.2 Network
 
-http 1.1 -> 20%
-http 2 -> 50%
+http 1.1 -> 20% -> 5 connections for resource
+http 2 -> 50% -> Multiplexing -> 200 streams in parallel
 http 3 -> 30%
