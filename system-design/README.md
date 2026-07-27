@@ -228,6 +228,25 @@ LCP, INP, CLS
 
 ### 6.2 Network
 
-http 1.1 -> 20% -> 5 connections for resource
-http 2 -> 50% -> Multiplexing -> 200 streams in parallel
+http 1.1 -> 20% -> 5 connections for resource -> 5kb
+http 2 -> 50% -> Multiplexing -> 200 streams in parallel -> header compression -> 12.5 bytes
 http 3 -> 30%
+
+## 6.3 JS Bundling
+
+polyfill -> multiple bundle -> sent based on user agent
+
+code splitting
+
+http 1 -> limit connection -> need bundling
+
+http 2 -> no limit -> split -> good performance
+
+preload -> load in background with high priority
+prefetch ->  load and cache in background with low priority
+
+Code minification -> reduce 20%
+
+Code compression -> brotli, gzip
+
+Script Orders -> defer
