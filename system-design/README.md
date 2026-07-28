@@ -250,3 +250,14 @@ Code minification -> reduce 20%
 Code compression -> brotli, gzip
 
 Script Orders -> defer
+
+## 6.4 CSS Bundling
+
+multiple bundle based on device
+
+tailwind minification
+
+critical style extraction
+
+critical -> essential -> inline
+non-critical -> pop up, graphic -> media="print" onload="this.media='all'", preload as style
