@@ -261,3 +261,9 @@ critical style extraction
 
 critical -> essential -> inline
 non-critical -> pop up, graphic -> media="print" onload="this.media='all'", preload as style
+
+## 6.5 Image Optimization
+
+gif, svg, png, jpg, webp, avif
+
+use webp and avif
