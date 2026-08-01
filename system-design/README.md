@@ -267,3 +267,7 @@ non-critical -> pop up, graphic -> media="print" onload="this.media='all'", prel
 gif, svg, png, jpg, webp, avif
 
 use webp and avif
+
+## 6.6 Font Optimization
+
+@font-face
