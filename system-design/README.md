@@ -232,7 +232,7 @@ http 1.1 -> 20% -> 5 connections for resource -> 5kb
 http 2 -> 50% -> Multiplexing -> 200 streams in parallel -> header compression -> 12.5 bytes
 http 3 -> 30%
 
-## 6.3 JS Bundling
+### 6.3 JS Bundling
 
 polyfill -> multiple bundle -> sent based on user agent
 
@@ -251,7 +251,7 @@ Code compression -> brotli, gzip
 
 Script Orders -> defer
 
-## 6.4 CSS Bundling
+### 6.4 CSS Bundling
 
 multiple bundle based on device
 
@@ -262,12 +262,20 @@ critical style extraction
 critical -> essential -> inline
 non-critical -> pop up, graphic -> media="print" onload="this.media='all'", preload as style
 
-## 6.5 Image Optimization
+### 6.5 Image Optimization
 
 gif, svg, png, jpg, webp, avif
 
 use webp and avif
 
-## 6.6 Font Optimization
+### 6.6 Font Optimization
 
 @font-face
+
+## Bonus
+
+[react-window](https://github.com/bvaughn/react-window)
+
+short poll -> 5s
+
+long poll -> fetch 30s
